@@ -1,0 +1,22 @@
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\TP 2 - FInal.exe.config
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\TP 2 - FInal.exe
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\TP 2 - FInal.pdb
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\BE.dll
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\BLL.dll
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\MPP.dll
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\DAL.dll
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\BE.pdb
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\BLL.pdb
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\MPP.pdb
+C:\POO\POO\POO\TP 2 - FInal\bin\Debug\DAL.pdb
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP 1 - FInal.csproj.AssemblyReference.cache
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP_2___FInal.Form1.resources
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP_2___FInal.Informes.resources
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP_2___FInal.frmLogin.resources
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP_2___FInal.frmSistema.resources
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP_2___FInal.Properties.Resources.resources
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP 1 - FInal.csproj.GenerateResource.cache
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP 1 - FInal.csproj.CoreCompileInputs.cache
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP 1 - FInal.csproj.CopyComplete
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP 2 - FInal.exe
+C:\POO\POO\POO\TP 2 - FInal\obj\Debug\TP 2 - FInal.pdb
